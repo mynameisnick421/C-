@@ -1,0 +1,6 @@
+C:\School\C#\classExamples\bin\Debug\classExamples.exe.config
+C:\School\C#\classExamples\bin\Debug\classExamples.exe
+C:\School\C#\classExamples\bin\Debug\classExamples.pdb
+C:\School\C#\classExamples\obj\Debug\classExamples.csprojAssemblyReference.cache
+C:\School\C#\classExamples\obj\Debug\classExamples.exe
+C:\School\C#\classExamples\obj\Debug\classExamples.pdb

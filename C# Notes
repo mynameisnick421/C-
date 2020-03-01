@@ -1,0 +1,20 @@
+c#
+player 1=>	12
+multidimentional array for hits, misses
+initialize array at 0
+
+
+
+
+summary display for option 2
+
+	name		at batts	   hits		Average
+Mookie Betts		7			3		 .429
+
+
+pass by reference is passing the address and can actually alter the value
+
+2 ways to pass variable by reference. 'ref' must have a value before the call to a method
+									  'out' the method must assign a value before returning
+
+why pass by reference?
